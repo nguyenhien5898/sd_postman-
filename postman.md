@@ -7,7 +7,7 @@ __cách sử dụng postman__
 nhìn có 2 dòng, cơ mà hiểu được có tý  
 __*các chức năng cơ bản*__  
 - cho phép gửi yêu cầu với các phương thức:   
-GET( Yêu cầu server đưa lại resource. vuốt newfeed),  
+GET( Yêu cầu server đưa lại resource. vd: vuốt newfeed),  
 PUT(Yêu cầu server cho sửa / thêm vào resource đã có trên hệ thống. Ví dụ: Edit 1 post ở trên fb.),  
 POST(Yêu cầu server cho tạo ra 1 resource mới. vd:đặt chuyến đi mới),  
 DELETE(Yêu cầu server cho xóa 1 resourse)  
