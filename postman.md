@@ -28,4 +28,7 @@ __khi nào dùng none, from data, x-www-form-urlencoled, raw, binary,...__
 
 [__Export và Import Collections__](https://sangbui.com/postman-06-export-va-import-collections/)(xuất và nhập)  
 
+[__viết test kiểm tra kết quả__](https://sangbui.com/postman-07-viet-tests-kiem-tra-ket-qua/#comments)  
+
+
 
