@@ -26,7 +26,6 @@ DELETE(Yêu cầu server cho xóa 1 resourse)
  Để import, chọn vào biểu tượng Import trên thanh Header Bar. Chọn Tab “Import File” và tìm đến file .json đã được export ra.  
  Sau khi import thành công thì sẽ thấy được một Collection và các request bên trong.
  
-[__viết test kiểm tra kết quả__](https://sangbui.com/postman-07-viet-tests-kiem-tra-ket-qua/#comments)  
-
+[__viết test kiểm tra kết quả__]
 
 
