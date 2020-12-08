@@ -18,7 +18,7 @@ DELETE(Yêu cầu server cho xóa 1 resourse)
 
 [__Gởi request với phương thức POST__]( 
 
-[__Export và Import Collections__]
+[__Export và Import Collections__]  
  **Export Collections **  
  
  Để export một test collection, nhấp vào biểu tượng dấu 3 chấm kế bên tên collection, sau đó chọn Export. Tại cửa sổ tiếp theo sẽ chọn định dạng mặc định là Collection v2.1 và chọn Export. Lúc này sẽ có được một file với định dạng .json dùng để lưu trữ hoặc gửi cho người khác sử dụng.  
