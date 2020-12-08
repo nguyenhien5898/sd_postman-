@@ -26,13 +26,10 @@ Chọn tab Headers, nhập thông tin về header bao gồm Content-Type, Author
   
   
 **Tạo Một requuest (POST) trên Postman**  
-(*GET( Yêu cầu server đưa lại resource. vd: vuốt newfeed),  
-
+GET( Yêu cầu server đưa lại resource. vd: vuốt newfeed),  
 PUT(Yêu cầu server cho sửa / thêm vào resource đã có trên hệ thống. Ví dụ: Edit 1 post ở trên fb.),  
-
 POST(Yêu cầu server cho tạo ra 1 resource mới. vd:đặt chuyến đi mới),  
-
-DELETE(Yêu cầu server cho xóa 1 resourse) *) 
+DELETE(Yêu cầu server cho xóa 1 resourse)   
 **Tương tự như gửi request bằng phương thức GET, ở đây ta chỉ cần thay phương thức nhập là POST**  
 - Method: POST  
 - URL: Địa chỉ URL  
