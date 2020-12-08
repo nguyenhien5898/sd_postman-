@@ -14,12 +14,12 @@ DELETE(Yêu cầu server cho xóa 1 resourse)
 - Cho phép post dữ liệu dưới dạng form (key-value), text, json.  
 - Hiện kết quả trả về dạng text, hình ảnh, XML, JSON. 
 
-[__Tạo một request trên Postman__](https://sangbui.com/postman-03-goi-mot-request-dau-tien-va-kiem-tra-ket-qua/) phương thức GET    
+[__Tạo một request trên Postman__]    
 
-[__Gởi request với phương thức POST__](https://sangbui.com/postman-04-goi-request-voi-phuong-thuc-post/)  
+[__Gởi request với phương thức POST__]( 
 __khi nào dùng none, from data, x-www-form-urlencoled, raw, binary,...__  
 - none:
-- from data:
+- from data: 
 - x-www-form-urlencoled:
 -  raw:
 -  binary:
