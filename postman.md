@@ -17,16 +17,8 @@ DELETE(Yêu cầu server cho xóa 1 resourse)
 [__Tạo một request trên Postman__]    
 
 [__Gởi request với phương thức POST__]( 
-__khi nào dùng none, from data, x-www-form-urlencoled, raw, binary,...__  
-- none:
-- from data: 
-- x-www-form-urlencoled:
--  raw:
--  binary:
-- GraphQL:
-- JSON:
 
-[__Export và Import Collections__](https://sangbui.com/postman-06-export-va-import-collections/)(xuất và nhập)  
+[__Export và Import Collections__]
 
 [__viết test kiểm tra kết quả__](https://sangbui.com/postman-07-viet-tests-kiem-tra-ket-qua/#comments)  
 
