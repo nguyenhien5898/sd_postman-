@@ -30,11 +30,11 @@
 
 - 202 Accepted: Yêu cầu đã được nhận nhưng chưa được thực hiện. Yêu cầu này là non-committal, vì không có cách nào trong HTTP để gửi sau đó một phản hồi không đồng bộ cho biết kết quả của yêu cầu. Nó dành cho các trường hợp trong đó 1 quá trình / máy chủ khác xử lý yêu cầu hoặc để xử lý hàng loạt.
 
-- 203 Non-Authoritative Information: Code phản hồi này có nghĩa là siêu thông tin được trả về không hoàn toàn giống với thông tin có sẵn từ máy chủ gốc, nhưng được thu thập từ phần copy local hay của bên phía thứ 3. Code này chủ yếu được sử dụng để phản chiếu hoặc sao lưu tài nguyên khác. Ngoại trừ trường hợp cụ thể đó, thông thường phản hồi “200 OK” được ưu tiên cho trạng thái này.
+- 203 Non-Authoritative Information: Code phản hồi này có nghĩa là siêu thông tin được trả về không hoàn toàn giống với thông tin có sẵn từ máy chủ gốc, nhưng được thu thập từ phần copy local hay của bên phía thứ 3. Code này chủ yếu được sử dụng để phản chiếu hoặc sao lưu tài nguyên khác. Ngoại trừ trường hợp cụ thể đó, thông thường phản hồi “200 OK” được ưu tiên cho trạng thái này.
 
 - 204 No Content: Không có nội dung để gửi cho yêu cầu này, nhưng các header có thể hữu dụng. User-agent có thể cập nhật các header đã lưu trong bộ nhớ cache cho tài nguyên này bằng các header mới.
 
-- 205 Reset Content: Cho user-agent biết để reset document đã gửi yêu cầu này.
+- 205 Reset Content: Cho user-agent biết để reset document đã gửi yêu cầu này.
 
 - 206 Partial Content: Code phản hồi này được dùng khi Range header được gửi từ client để yêu cầu chỉ 1 phần của nguồn tài nguyên.
 
